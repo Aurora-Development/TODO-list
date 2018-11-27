@@ -7,10 +7,11 @@ A List of future projects and which dev will be going to make it!
 
 | Name | Description | Progress | Type |
 | ---- | ----------- | -------- | ---- |
-| `Bridges` | `A pmmp minigame plugin` | `80%` | `pmmp plugin` |
-| `AfterLife` | `A pmmp kill/death scoring + levelup system` | `60%` | `pmmp plugin` | 
-| `Matrix` | `A pmmp plugin for creating holograms` | `0%` | `pmmp plugin` |
-| `Cyborg` | `A pmmp plugin to bind commands together` | `0%` | `pmmp plugin` |
+| `Bridges` | `A minigame plugin` | `80%` | `pmmp plugin` |
+| `AfterLife` | `A kill/death scoring + levelup system` | `60%` | `pmmp plugin` | 
+| `Matrix` | `A plugin for creating holograms` | `0%` | `pmmp plugin` |
+| `Cyborg` | `A plugin to bind commands together` | `0%` | `pmmp plugin` |
+| `Verdant` | `A Simple purpose script for verification` | `0%` | `discord bot` |
 
 <hr>
 
