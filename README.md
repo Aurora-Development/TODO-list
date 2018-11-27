@@ -13,3 +13,13 @@ A List of future projects and which dev will be going to make it!
 | `Cyborg` | `A pmmp plugin to bind commands together` | `0%` |
 
 <hr>
+
+### Future projects authoring from ~[Shabzz102](https://github.com/iShabzz102)
+
+
+
+
+
+
+
+<hr>
