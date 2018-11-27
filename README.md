@@ -16,6 +16,11 @@ A List of future projects and which dev will be going to make it!
 
 #### Future projects authoring from ~[Shabzz102](https://github.com/iShabzz102)
 
+| Name | Description | Progress |
+| ---- | ----------- | -------- |
+| `Drops` | `On Death Drops` | `95%` |
+| `StaffMode` | `A pmmp plugin for admins` | `40%` |
+
 
 
 
