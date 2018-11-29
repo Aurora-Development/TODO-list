@@ -20,7 +20,7 @@ A List of future projects and which dev will be going to make it!
 | Name | Description | Progress | Type |
 | ---- | ----------- | -------- | ---- |
 | `Drops` | `On Death Drops` | `95%` | `pmmp plugin` | 
-| `StaffMode` | `A pmmp plugin for admins` | `40%` | `pmmp plugin` | 
+| `Knockback` | `A pmmp plugin to change kb` | `0%` | `pmmp plugin` | 
 
 
 
